@@ -1,0 +1,19 @@
+{
+  "name": "playwright-sdet-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.9"
+  },
+  "dependencies": {
+    "axios": "^1.8.2",
+    "node-fetch": "^3.3.2",
+    "playwright-sdet-assignment": "file:"
+  }
+}
