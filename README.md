@@ -29,3 +29,16 @@ One of the major challenges I faced was with API testing, particularly while wor
 •	Sought help from ChatGPT and other online resources.
 Unfortunately, the issue remains unresolved, and I was unable to retrieve valid responses from the API. However, I have documented my efforts and approach in my submission.
 I truly hope that my dedication and problem-solving efforts will be recognized. Given the opportunity to work under the supervision of experienced SQA Engineers, I am confident that I can further enhance my skills and contribute effectively. I look forward to learning and growing in a professional environment. 
+
+## Test Execution Summary  
+All test cases have passed **except for the API testing test cases**.  
+The API tests failed due to issues faced with the OpenWeather API, as mentioned above.  
+
+Additionally, I have included:  
+- A **test case file** for reference.  
+- A **manual testing bug report file** for evaluation.  
+
+I acknowledge that the work may not be **100% perfect**, but I have put in my best effort to ensure a **positive evaluation** in both **manual and automated testing**.  
+
+Thank you for reviewing my submission! 😊
+
